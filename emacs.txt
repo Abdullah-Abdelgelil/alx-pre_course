@@ -1,0 +1,49 @@
+Opening and Closing
+
+Open / Create file : C-x C-f
+Save active file : C-x C-s
+Save all  : C-x s 
+Save as  : C-x C-w
+Exit/quit  : C-x C-c
+Lost?   : C-g
+
+Editing
+Delete   : Backspace, delete, C-d
+Undo   : C-x u 
+Mark Region  : C-SPACE
+Cut           : C-w
+Paste   : C-y 
+Cut next word  : M-d, ESC d
+Cut previous word : M-backspace 
+Cut this line  : C-k 
+Forward search : C-s 
+Backward search : C-r 
+
+Moving About
+Up,down,left,right : use the arrow keys 
+Beginning-of-line : C-a, HOME
+End-of-line  : C-e, END
+Forward one char : C-f
+Back one character : C-b
+Next line  : C-n
+Previous line  : C-p
+Forward by screen : C-v
+Backward by screen : ESC v
+Forward one word : ESC f 
+Backward one word : ESC b 
+
+Display / Window
+Split screen horizontal: C-x 2 
+Split screen vertical : C-x 3 
+Close this window : C-x 0 
+Return to screen : C-x 1 
+Command prompt : M-x shell 
+
+Help
+View the tutorial : C-h t 
+Information  : C-h i
+List of commands : C-h b 
+What mode am I in : C-h m 
+HELP   : C-h C-h
+
+EMACS Legend
